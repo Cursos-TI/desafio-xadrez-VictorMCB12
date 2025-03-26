@@ -10,7 +10,7 @@ int main(){
     
     printf("*** Desafio Movimentacao das peças de xadrez ***\n");
 
-    // E strutura de repetição while, para o movimento da torre
+    // Estrutura de repetição while, para o movimento da torre
     // A torre se move apenas em linha reta e o loop simula o movimento para a direita
 
     //Printf para espacamento e melhor leitura do programa
@@ -37,14 +37,14 @@ int main(){
     printf("\nMovimentacao da rainha: \n\n");
     
     // Estrutura de repeticao for, para o movimento da rainha 
-    //A rainha que pode se mover para qualquer direcao, mas como foi pedido aqui ela se move somente para a esquerda.
+    // A rainha que pode se mover para qualquer direcao, mas como foi pedido aqui ela se move somente para a esquerda.
     
     for (rainha = 0; rainha <= 7; rainha++)
     {
         printf("Rainha se moveu para a esquerda!\n");
     }
     
-    //Return 0 para finalizar o programa
+    // Return 0 para finalizar o programa
     return 0;
 
 }
