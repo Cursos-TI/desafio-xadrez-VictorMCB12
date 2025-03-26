@@ -13,7 +13,7 @@ int main(){
     // Estrutura de repetição while, para o movimento da torre
     // A torre se move apenas em linha reta e o loop simula o movimento para a direita
 
-    //Printf para espacamento e melhor leitura do programa
+    // Printf para espacamento e melhor leitura do programa
     printf("\nMovimentacao da torre: \n\n");
 
     while (torre <= 4)
