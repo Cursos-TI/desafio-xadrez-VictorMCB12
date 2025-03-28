@@ -47,7 +47,7 @@ int main(){
         printf("\nMovimentacao do cavalo: \n\n");
 
     // Estrutura de repeticao for e while, para o movimento do cavalo 
-    // o cavalo se move apenas em "L"  e o loop simula o movimento para a baixo e para a esquerda
+    // o cavalo se move apenas em "L"  e o loop simula o movimento para a baixo e para a direita
 
     while (cavalo--)
     {
