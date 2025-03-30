@@ -28,8 +28,8 @@ void moverTorre (int casas){
     void moverCavalo(){
       for (int i = 0; i < 1; i++)
       {
-       printf("Cavalo se moveu para a baixo!\n");
-       printf("Cavalo se moveu para direita!\n");	
+       printf("Cavalo se moveu para a cima!\n");
+       printf("Cavalo se moveu para cima!\n");	
        printf("Cavalo se moveu para direita!\n");	
        continue;
        printf("Cavalo se moveu para baixo!\n");	
