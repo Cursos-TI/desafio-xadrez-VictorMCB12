@@ -55,7 +55,7 @@ int main(){
         {
             printf("Cavalo se moveu para baixo!\n");
         }
-            printf("Cavalo se moveu para a direita!\n");
+            printf("Cavalo se moveu para a esquerda!\n");
     }
     
     
